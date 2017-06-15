@@ -1,0 +1,9 @@
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\bin\Debug\netcoreapp1.1\messageBoardBackEnd.deps.json
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\bin\Debug\netcoreapp1.1\messageBoardBackEnd.runtimeconfig.json
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\bin\Debug\netcoreapp1.1\messageBoardBackEnd.runtimeconfig.dev.json
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\bin\Debug\netcoreapp1.1\messageBoardBackEnd.dll
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\bin\Debug\netcoreapp1.1\messageBoardBackEnd.pdb
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\obj\Debug\netcoreapp1.1\messageBoardBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\obj\Debug\netcoreapp1.1\messageBoardBackEnd.AssemblyInfo.cs
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\obj\Debug\netcoreapp1.1\messageBoardBackEnd.dll
+C:\Users\Wheretas\Documents\git\messageBoard\messageBoardBackEnd\messageBoardBackEnd\obj\Debug\netcoreapp1.1\messageBoardBackEnd.pdb
